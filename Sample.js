@@ -1,6 +1,5 @@
 let boardID;
 let boardName = new Date();
-//console.log(boardName);
 xdescribe('trello tests', function () {
     it('validate that a board can be created', async function () {
 
